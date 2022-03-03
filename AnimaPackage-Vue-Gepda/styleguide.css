@@ -1,0 +1,73 @@
+:root { 
+  --black: #000000;
+  --loulou: #432042e6;
+  --loulou-2: #43204280;
+  --west-side: #ff960e;
+  --white: #ffffff;
+ 
+  --font-size-l: 40px;
+  --font-size-m: 30px;
+  --font-size-s: 25px;
+  --font-size-xl: 48px;
+  --font-size-xxl: 50px;
+  --font-size-xxxl: 90px;
+  --font-size-xxxxl: 100px;
+ 
+  --font-family-futura-medium: "Futura-Medium", Helvetica;
+  --font-family-galvji-bold: "Galvji-Bold", Helvetica;
+}
+.futura-medium-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.futura-medium-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.futura-medium-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.galvji-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-galvji-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.futura-medium-white-100px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.futura-medium-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.futura-medium-white-90px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
